@@ -7,6 +7,6 @@ The indicator is highly customizable via its input parameters.
 ![Box Breakout Alert detects some breakouts in this USD/CAD daily chart](https://github.com/EarnForex/Box-Breakout-Alert/blob/main/box-breakout-alert-usdcad-example-chart.png)
 
 A detailed description of the indicator can be found here:
-https://www.earnforex.com/metatrader-indicators/box-breakout-alert/
+https://www.earnforex.com/indicators/box-breakout-alert/
 
 Any contributions to the code are welcome!
